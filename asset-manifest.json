@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/im-Arihant-jain.github.io/static/css/main.1b36f299.css",
-    "main.js": "/im-Arihant-jain.github.io/static/js/main.a9264ddc.js",
+    "main.css": "/im-Arihant-jain.github.io/static/css/main.cdcd8d3b.css",
+    "main.js": "/im-Arihant-jain.github.io/static/js/main.4c808408.js",
     "static/media/troll-face.png": "/im-Arihant-jain.github.io/static/media/troll-face.ff6c7eca7940f6213496.png",
     "index.html": "/im-Arihant-jain.github.io/index.html",
-    "main.1b36f299.css.map": "/im-Arihant-jain.github.io/static/css/main.1b36f299.css.map",
-    "main.a9264ddc.js.map": "/im-Arihant-jain.github.io/static/js/main.a9264ddc.js.map"
+    "main.cdcd8d3b.css.map": "/im-Arihant-jain.github.io/static/css/main.cdcd8d3b.css.map",
+    "main.4c808408.js.map": "/im-Arihant-jain.github.io/static/js/main.4c808408.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b36f299.css",
-    "static/js/main.a9264ddc.js"
+    "static/css/main.cdcd8d3b.css",
+    "static/js/main.4c808408.js"
   ]
 }
